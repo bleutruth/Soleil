@@ -1,4 +1,6 @@
 
+sollib/
+
 *.opensdf
 *.sdf
 *.suo

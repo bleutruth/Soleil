@@ -1,9 +1,5 @@
 
 Debug/
 Release/
-ipch/
 
-*.sdf
-*.suo
 *.user
-*.opensdf
